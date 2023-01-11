@@ -1,2 +1,2 @@
-# my very first website
-welcome [code institue](https://codeinstitute.net)  
+# Code Institute HTML CSS Template
+By [code institue](https://codeinstitute.net)  
